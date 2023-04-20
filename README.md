@@ -13,4 +13,4 @@ The program has the following menu options:
 
 The program uses a try-catch block to handle exceptions that may occur when calculating the total payment for the month. If an exception occurs, the program ignores it and continues with the next employee.
 
-Overall, the program provides a basic implementation for managing employee information, but it could be improved by adding validation for user inputs and error handling for invalid input values.
+
