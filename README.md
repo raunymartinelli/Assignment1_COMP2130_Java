@@ -1,4 +1,4 @@
-# Assignment1_COMP2130_Java
+# appEmployeeInfo
 This Java code implements a menu-driven program that allows the user to manage employee information. The program uses an array of Employee objects and a while loop to display a menu of options until the user chooses to exit the program.
 
 The program has the following menu options:
