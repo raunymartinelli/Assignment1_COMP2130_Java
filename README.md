@@ -13,4 +13,6 @@ The program has the following menu options:
 
 The program uses a try-catch block to handle exceptions that may occur when calculating the total payment for the month. If an exception occurs, the program ignores it and continues with the next employee.
 
+Java: Import class into IDEA Intellij and run main function.
+
 
